@@ -43,6 +43,11 @@ h1 , h2{
 	font-size: 16px;
 }
 
+#inicio h2{ 
+	font-size: 24px; 
+	color: #111111;
+}
+
 /*PLANOS*/
 /* Estilo para o container da linha */
 #planos .row {
